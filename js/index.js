@@ -10,6 +10,11 @@ console.clear();
 */
 
 // --v-- write your code here --v--
+const title = null;
+let text = null;
+let numberOfLikes = null;
+let userWhoCreatedThePost = null;
+let isReported = false;
 
 // --^-- write your code here --^--
 
@@ -18,5 +23,5 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+console.log(title, text, numberOfLikes, userWhoCreatedThePost, isReported);
 // --^-- write your code here --^--
